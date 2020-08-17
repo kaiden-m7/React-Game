@@ -20,7 +20,7 @@ class MainContainer extends Component {
             });
             return this.setState({
                 image: imageOrder.sort(() => Math.random() - 0.4),
-                message: "Chose the same one twice!",
+                message: "Oops, you chose the same one twice!",
                 score: 0
             })
         }

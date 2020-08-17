@@ -1,7 +1,7 @@
 /* Jumbotron styling */
 
 .jumbotron {
-	background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/7t3l8uJ/social-media-platforms-with-their-logos-on-white-background_4yh1bl90__F0014.png");
+	background-image: '../../assets/pageImages/699f3eda5e36bbb93c9b9c4ebf599278.jpg';
     background-blend-mode: lighten;
     background-repeat: no-repeat;
 	background-position: center;
@@ -12,11 +12,11 @@
 }
 
 .jumbotron h1 {
-	font-family: 'Montserrat', sans-serif;
+	font-family: fantasy;
 	font-size: 65px;
 	text-transform: uppercase;
 	font-weight: 900;
-	color: #e7283a;
+	color: #26c43b;
 }
 
 .jumbotron p {

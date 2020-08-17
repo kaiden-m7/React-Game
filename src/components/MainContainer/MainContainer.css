@@ -13,8 +13,8 @@
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     font-weight: 500;
-    background-color: black;
-    color: white;
+    background-color: rgb(228, 225, 79);
+    color: rgb(0, 0, 0);
     padding: 20px 0;
     margin-bottom: 0px;
 }
@@ -29,8 +29,8 @@
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     font-weight: 500;
-    background-color:#e7283a;
-    color: white;
+    background-color:#a1e436;
+    color: rgb(0, 0, 0);
     padding: 20px 0;
     margin-bottom: 25px;
 }
