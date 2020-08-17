@@ -6,7 +6,7 @@ const Jumbotron = () => (
 <div className="jumbotron jumbotron-fluid">
   <div className="container text-center">
     <h1 className="display-4">React Clicky Game!</h1>
-    <p className="lead">Click on any image to earn points, but don't click on any more than once!</p>
+    <p className="lead">Click on any image to earn points, don't click on the same one twice!</p>
   </div>
 </div>
 );
